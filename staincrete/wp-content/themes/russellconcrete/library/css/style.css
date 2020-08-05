@@ -1069,6 +1069,7 @@ nav[role=navigation] {
 }
 .nav.top-nav li a {
 	color: #fff;
+	display:block;
 	text-align: center;
 	font-size: 18px;
 	font-size: 1.125rem;
